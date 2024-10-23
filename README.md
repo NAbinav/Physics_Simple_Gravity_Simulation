@@ -18,7 +18,7 @@ This is a simple **Gravity Simulation** built with **Pygame**. The game simulate
 - Navigate to the project directory.
 - Run the script:
 ```bash
-python circle_gravity.py
+python simple_gravity.py
 ```
 ## License
 This project is licensed under the MIT License. Feel free to use and modify.
